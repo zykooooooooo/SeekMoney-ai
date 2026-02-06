@@ -369,3 +369,5 @@ A:
 ## 许可证
 
 本项目采用 MIT License。
+
+项目前端和思路参考和fork了： https://github.com/weiyf2/deeppoint-ai ，感谢作者开源。
